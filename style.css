@@ -1,0 +1,43 @@
+body{
+    background-color:gainsboro;
+}
+
+.border-with-text {
+    border: 0px solid silver;
+    padding: 0; 
+    display: outline-block;
+    color: rgb(230, 190, 90);
+    border-radius: 20px;
+    background-color: black;
+    text-align: center;
+  }
+
+.title{
+    text-decoration: underline;
+    color: aqua;
+
+}
+.round-image{
+    border-radius: 50%;
+    width: 400px;
+    height: 500px;
+    border: 5px solid lightskyblue;
+}
+
+.headinggreen {
+    color: green;
+}
+
+.introduction {
+    height: 100vh;
+    text-align: center;
+    background-color: rgb(25%, 20%, 55%);
+    color: rgb(200, 203, 102);
+    border-radius: 20px;
+
+    font-size: 31.5px;
+    font-family: Georgia, 'Times New Roman', Times, serif,'Times New Roman', Times, serif;
+}
+
+
+
